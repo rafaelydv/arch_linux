@@ -18,7 +18,7 @@ pacman -S xorg-server \
 	  xfce4-pulseaudio-plugin \
 	  xfce4-power-manager \
 	  xfce4-notes-plugin \
-	  pcmanfm \
+	  xfdesktop \
 	  terminator \
 	  gvfs-smb \
 	  p7zip \
