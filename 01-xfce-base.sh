@@ -17,7 +17,7 @@ pacman -S xorg-server \
 	  xfce4-screenshooter\
 	  xfce4-pulseaudio-plugin \
 	  xfce4-power-manager \
-	  xfce4-notes \
+	  xfce4-notes-plugin \
 	  pcmanfm \
 	  terminator \
 	  gvfs-smb \
